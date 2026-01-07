@@ -1,4 +1,4 @@
-# A decision support system based on variable greedy algorithm for Flow shop scheduling problem with no wait and just-in-time minimization
+# A decision support system based on q-learning variable greedy algorithm for Flow shop scheduling problem with no wait and just-in-time minimization
 
 ## Intellectual Property Rights
 

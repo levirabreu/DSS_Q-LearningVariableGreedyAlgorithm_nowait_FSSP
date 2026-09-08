@@ -2,7 +2,7 @@
 
 ## Intellectual Property Rights
 
-This project is registered with Brazil's National Intellectual Property Institute (INPI) under the code BRXXXXXXXXXXXX-X.
+This project is registered with Brazil's National Intellectual Property Institute (INPI) under the code BR512026000247-8.
 
 ## License
 
